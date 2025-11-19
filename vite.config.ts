@@ -5,7 +5,7 @@
 
   export default defineConfig({
     plugins: [react()],
-    base: "Portfolio_waleu_brice",
+    // base: "Portfolio_waleu_brice",
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
