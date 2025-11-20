@@ -28,7 +28,7 @@ const projects = {
     {
       title: 'Plateforme E-commerce',
       description: 'Application e-commerce avec gestion de panier, paiements, et tableau de bord admin. Architecture monolitique.',
-      image: '/img/Project3.png',
+      image: 'img/Project3.png',
       // image: 'https://images.unsplash.com/photo-1557821552-17105176677c?w=800&h=500&fit=crop',
       tags: ['HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL'],
       github: 'https://github.com/DREAMCE-TECH/Dreamce-store.git',
@@ -37,7 +37,7 @@ const projects = {
     {
       title: 'Voyage',
       description: 'Dashboard de monitoring temps réel avec alertes automatiques. Visualisation des bief pour la destination souhaiter.',
-      image: '/img/Project4.png',
+      image: 'img/Project4.png',
       // image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=500&fit=crop',
       tags: ['HTML', 'CSS', 'JavaScript', 'BOOSTRAP'],
       github: 'https://github.com/DREAMCE-TECH/Dreamce-voyage.git',
@@ -46,7 +46,7 @@ const projects = {
     {
       title: 'restoration',
       description: 'plate forme dynamique de restauration rapide avec gestion de menu, commandes en ligne, et tableau de bord admin. Architecture monolitique.',
-      image: '/img/Project5.png',
+      image: 'img/Project5.png',
       // image: 'https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=800&h=500&fit=crop',
       tags: ['HTML', 'CSS', 'JavaScript', 'BOOSTRAP'],
       github: 'https://github.com/DREAMCE-TECH/Dreamce-restauration.git',
@@ -55,7 +55,7 @@ const projects = {
     {
       title: 'Application de streaming',
       description: 'application web de streaming ou vous pouvez regarder des films et des series en ligne gratuitement.',
-      image: '/img/Project2.png',
+      image: 'img/Project2.png',
       // image: 'https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=500&fit=crop',
       tags: ['HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL'],
       github: 'https://github.com/DREAMCE-TECH/Dreamce-streaming.git',
@@ -64,7 +64,7 @@ const projects = {
     {
       title: 'mon CV',
       description: 'mon CV en ligne pour me decouvrir un peu plus.',
-      image: '/img/Project1.png',
+      image: 'img/Project1.png',
       // image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=500&fit=crop',
       tags: ['HTML', 'CSS', 'JavaScript', 'BOOSTRAP'],
       github: 'https://github.com:DREAMCE-TECH/Dreamce-cv.git',
@@ -73,7 +73,7 @@ const projects = {
     {
       title: 'commande de plat',
       description: 'plate forme de commande de plat en ligne avec gestion de menu, commandes en ligne, et tableau de bord admin. Architecture monolitique.',
-      image: '/img/Project6.png',
+      image: 'img/Project6.png',
       // image: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=500&fit=crop',
       tags: ['HTML', 'CSS', 'JavaScript'],
       github: 'https://github.com/DREAMCE-TECH/Dreamce-food.git',
@@ -84,7 +84,7 @@ const projects = {
     {
       title: 'E-commerce Platform',
       description: 'E-commerce application with cart management, payments, and admin dashboard. Monolithic architecture.',
-      image: '/img/Project3.png',
+      image: 'img/Project3.png',
       tags: ['HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL'],
       github: 'https://github.com/DREAMCE-TECH/Dreamce-store.git',
       // live: 'https://example.com',
@@ -92,7 +92,7 @@ const projects = {
     {
       title: 'Travel Dashboard',
       description: 'Real-time monitoring dashboard with automatic alerts. Visualization of briefs for the desired destination.',
-      image: '/img/Project4.png',
+      image: 'img/Project4.png',
       tags: ['HTML', 'CSS', 'JavaScript', 'BOOSTRAP'],
       github: 'https://github.com/DREAMCE-TECH/Dreamce-voyage.git',
       live: null,
@@ -100,7 +100,7 @@ const projects = {
     {
       title: 'Food Delivery Platform',
       description: 'Dynamic fast food platform with menu management, online orders, and admin dashboard. Monolithic architecture.',
-      image: '/img/Project5.png',
+      image: 'img/Project5.png',
       tags: ['HTML', 'CSS', 'JavaScript', 'BOOSTRAP'],
       github: 'https://github.com/DREAMCE-TECH/Dreamce-restauration.git',
       live: null,
@@ -108,7 +108,7 @@ const projects = {
     {
       title: 'Streaming Application',
       description: 'Web streaming application where you can watch movies and series online for free.',
-      image: '/img/Project2.png',
+      image: 'img/Project2.png',
       tags: ['HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL'],
       github: 'https://github.com/DREAMCE-TECH/Dreamce-streaming.git',
       // live: 'https://example.com',
@@ -116,7 +116,7 @@ const projects = {
     {
       title: 'My Resume',
       description: 'My online resume to get to know me a little better.',
-      image: '/img/Project1.png',
+      image: 'img/Project1.png',
       tags: ['HTML', 'CSS', 'JavaScript', 'BOOSTRAP'],
       github: 'https://github.com:DREAMCE-TECH/Dreamce-cv.git',
       // live: 'https://example.com',
@@ -124,7 +124,7 @@ const projects = {
     {
       title: 'Food Ordering System',
       description: 'Online food ordering platform with menu management, online orders, and admin dashboard. Monolithic architecture.',
-      image: '/img/Project6.png',
+      image: 'img/Project6.png',
       tags: ['HTML', 'CSS', 'JavaScript'],
       github: 'https://github.com/DREAMCE-TECH/Dreamce-food.git',
       live: null,

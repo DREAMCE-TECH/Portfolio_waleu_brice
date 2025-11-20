@@ -166,7 +166,7 @@ export function Home({ language, theme, onNavigate }: HomeProps) {
                 theme === 'dark' ? 'bg-gray-800' : 'bg-white'
               } p-2`}>
                 <ImageWithFallback
-                  src='/img/IMG_5948.png'
+                  src='img/IMG_5948.png'
                   // src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=600&h=700&fit=crop"
                   alt="Waleu Brice"
                   className="w-full h-[500px] object-cover rounded-2xl"

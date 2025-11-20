@@ -191,7 +191,7 @@ export default function App() {
         <div className="p-4 space-y-4 border-t border-gray-200 dark:border-gray-700">
           <Button 
             className="w-full bg-gradient-to-r from-blue-600 to-teal-600 hover:from-blue-700 hover:to-teal-700 text-white"
-            onClick={() => window.open('/cv/cv.pdf', '_blank')}
+            onClick={() => window.open('cv/cv.pdf', '_blank')}
           >
             <Download className="w-4 h-4 mr-2" />
             {t.download}
@@ -341,7 +341,7 @@ export default function App() {
               <div className="p-4 space-y-4 border-t border-gray-200 dark:border-gray-700">
                 <Button 
                   className="w-full bg-gradient-to-r from-blue-600 to-teal-600 hover:from-blue-700 hover:to-teal-700 text-white"
-                  onClick={() => window.open('/cv/cv.pdf', '_blank')}
+                  onClick={() => window.open('cv/cv.pdf', '_blank')}
                 >
                   <Download className="w-4 h-4 mr-2" />
                   {t.download}

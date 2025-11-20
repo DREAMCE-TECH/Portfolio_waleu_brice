@@ -50,7 +50,7 @@ export function CV({ language, theme }: CVProps) {
   const handleDownload = () => {
     // Créer un lien temporaire pour télécharger le PDF
     const link = document.createElement('a');
-    link.href = '/cv.pdf';
+    link.href = 'cv.pdf';
     link.download = 'Waleu_Brice_CV.pdf';
     document.body.appendChild(link);
     link.click();
